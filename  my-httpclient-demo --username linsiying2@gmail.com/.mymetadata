@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mobo"
+  id="myeclipse.1317746147672"
+  context-root="/mobo"
+  j2ee-spec="5.0"
+  archive="mobo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
